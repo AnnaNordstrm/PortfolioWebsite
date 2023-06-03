@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\annan\\MyWebApp\\MyWebApp.csproj": {}
+    "C:\\Users\\annan\\OneDrive\\Documents\\GitHub\\PortfolioWebsite\\MyWebApp\\MyWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\annan\\MyWebApp\\MyWebApp.csproj": {
+    "C:\\Users\\annan\\OneDrive\\Documents\\GitHub\\PortfolioWebsite\\MyWebApp\\MyWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\annan\\MyWebApp\\MyWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\annan\\OneDrive\\Documents\\GitHub\\PortfolioWebsite\\MyWebApp\\MyWebApp.csproj",
         "projectName": "MyWebApp",
-        "projectPath": "C:\\Users\\annan\\MyWebApp\\MyWebApp.csproj",
+        "projectPath": "C:\\Users\\annan\\OneDrive\\Documents\\GitHub\\PortfolioWebsite\\MyWebApp\\MyWebApp.csproj",
         "packagesPath": "C:\\Users\\annan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\annan\\MyWebApp\\obj\\",
+        "outputPath": "C:\\Users\\annan\\OneDrive\\Documents\\GitHub\\PortfolioWebsite\\MyWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\annan\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,3 +1,10 @@
+:root {
+  --gray: #a8c8e6;
+  --white: #FFFFFF;
+  --black: #232325;
+}
+
+
 html {
   font-size: 14px;
 }
@@ -19,4 +26,19 @@ html {
 
 body {
   margin-bottom: 60px;
+  font-family: helvetica;
+  font-weight: 400;
+  background: var(--gray);
+}
+
+.subheading {
+  position:absolute;
+  top: 20px;
+  left: 250px;
+  height: 20px;
+  width: 20px;
+  border-radius: 30%; /*rounded corners*/
+  border: none;
+  color: var(--btnFontColor);
+  background-color: var(--btnBg);
 }
