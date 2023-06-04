@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
+      "Id": "C:\\Users\\annan\\OneDrive\\Documents\\GitHub\\PortfolioWebsite\\MyWebApp\\wwwroot\\li.png",
+      "PackagePath": "staticwebassets\\li.png"
+    },
+    {
       "Id": "C:\\Users\\annan\\OneDrive\\Documents\\GitHub\\PortfolioWebsite\\MyWebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },

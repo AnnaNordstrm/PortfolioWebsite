@@ -18660,6 +18660,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\annan\\OneDrive\\Documents\\GitHub\\PortfolioWebsite\\MyWebApp\\Pages\\About.cshtml",
+      "TargetPath": "Pages\\About.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\annan\\OneDrive\\Documents\\GitHub\\PortfolioWebsite\\MyWebApp\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
@@ -18672,11 +18677,6 @@
     {
       "FilePath": "c:\\Users\\annan\\OneDrive\\Documents\\GitHub\\PortfolioWebsite\\MyWebApp\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\annan\\OneDrive\\Documents\\GitHub\\PortfolioWebsite\\MyWebApp\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
