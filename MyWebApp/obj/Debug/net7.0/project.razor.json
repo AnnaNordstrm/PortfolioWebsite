@@ -18675,6 +18675,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\annan\\OneDrive\\Documents\\GitHub\\PortfolioWebsite\\MyWebApp\\Pages\\P1.cshtml",
+      "TargetPath": "Pages\\P1.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\annan\\OneDrive\\Documents\\GitHub\\PortfolioWebsite\\MyWebApp\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
